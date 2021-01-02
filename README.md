@@ -8,7 +8,7 @@ My experience working in hospitality environments required efficient team collab
 ! As a creative, collaborative thinker with a desire to learn;
 I would enjoy working in an agile development environment
 + where I can bring my own ideas; able to work across a wide variety of tasks to further develop my knowledge
-+ the team have the freedom and responsibility to make decisions. 
++ in a team where they have the freedom and responsibility to make decisions
 ```
 
 ### Skills
