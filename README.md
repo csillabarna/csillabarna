@@ -1,6 +1,6 @@
 # Hi there 🙋‍♀️ my name is Csilla
 ## Junior Full Stack Developer
-![Junior Full Stack Developer](https://images.unsplash.com/photo-1590595906931-81f04f0ccebb?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=100)
+![Junior Full Stack Developer](https://images.unsplash.com/photo-1590595906931-81f04f0ccebb?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&h=200&q=100)
 
 I have always been deeply curious about how the world works and what makes things tick! It was this curiosity, paired with an analytical mindset and persistence which led me to pivot my career to programming.
 My experience working in hospitality environments required efficient team collaboration, proactivity and performing under pressure, could also help my transition into software development. A great inspiration for me to discover and create something which can help make people's lives easier. 
