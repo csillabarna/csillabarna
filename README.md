@@ -1,4 +1,4 @@
-### Hi there 🙋‍♀️ Csilla Barna 
+### Hi there 🙋‍♀️, My name is Csilla Barna 
 #### Junior Full Stack Developer
 ![Junior Full Stack Developer](https://images.unsplash.com/photo-1590595906931-81f04f0ccebb?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80)
 
@@ -10,8 +10,9 @@ I would enjoy working in an agile development environment;  where I can bring my
 Skills: PYTHON / REACT / JAVASCRIPT / HTML / CSS / SASS / 
 
 - 🔭 I’m currently working on runForLife - Sharing platform for charity runners 
-- 🌱 I’m currently learning testing 
+- 🌱 I’m currently learning  JavaScript testing 
 - 📫 How to reach me: https://www.linkedin.com/in/csilla-barna/ 
+- ⚡ Fun fact: my family name - Barna - means 🤎brown🤎 in English 😇 
 
 
 
