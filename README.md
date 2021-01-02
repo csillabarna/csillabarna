@@ -8,18 +8,18 @@ As a creative, collaborative thinker with a desire to learn -
 I would enjoy working in an agile development environment;  where I can bring my own ideas; able to work across a variety of tasks to further develop my knowledge; where the team have the freedom and responsibility to make decisions.
 
 ### Skills
- - ⚛️ React
- - 🐍 Python
- - 💻 JavaScript
- - 🌎  HTML / CSS / SASS 
+ ⚛️ React
+ 🐍 Python
+ 💻 JavaScript
+ 🌎  HTML / CSS / SASS 
  
  🔭 I’m currently working on runForLife - Sharing platform for charity runners 
  
- 🌱 I’m currently learning  JavaScript testing 
+ 🌱 I’m currently learning - JavaScript testing 
  
  🤓 Fun fact - 
     my family name - Barna - means brown🤎 in English 😇 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/csilla-barna//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://csillabarna.github.io/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/https://www.linkedin.com/in/csilla-barna//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='30'>](https://csillabarna.github.io/)  
 
