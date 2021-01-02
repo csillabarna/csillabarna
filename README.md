@@ -4,7 +4,8 @@
  
 ```diff
 I have always been deeply curious about how the world works and what makes things tick!
-It was this curiosity, paired with an analytical mindset and persistence which led me to pivot my career to programming.
+It was this curiosity, paired with an analytical mindset and persistence 
+which led me to pivot my career to programming.
 My experience working in hospitality environments
 required efficient team collaboration, proactivity and performing under pressure, 
 could also help my transition into software development. A great inspiration for me
