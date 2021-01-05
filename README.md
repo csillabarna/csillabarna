@@ -25,14 +25,19 @@ I would enjoy working in an agile development environment
  
  🌎  HTML / CSS / SASS 
  
- 🔭 I’m currently working on runForLife - Sharing platform for charity runners 
+  👩‍💻 I’m currently working on 
+     
+     - runForLife - Sharing platform for charity runners 
  
- 🌱 I’m currently learning - JavaScript testing 
+ 📚 I’m currently learning 
+   
+    - JavaScript testing 
  
- 🤓 Fun fact -  
-    my family name (Barna) means brown🤎 in English 😇 
+ 🤓 Fun fact
+ 
+    - my family name (Barna) means brown🤎 in English 😇 
 
 reach me on 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/https://www.linkedin.com/in/csilla-barna//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='20'>](https://csillabarna.github.io/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/https://www.linkedin.com/in/csilla-barna//)  my website --> [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='20'>](https://csillabarna.github.io/)  
 
