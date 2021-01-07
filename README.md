@@ -1,7 +1,9 @@
 # Hi there 🙋‍♀️ I'm Csilla
 ### Junior Full Stack Developer
-![Junior Full Stack Developer](github-bg.jpeg)
+
  
+<img src='github-bg.jpeg' alt='yes, I can I will' height='100' width='1000'>
+
 ```diff
 I have always been deeply curious about how the world works
 and what makes things tick!
