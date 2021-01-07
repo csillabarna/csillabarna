@@ -2,7 +2,7 @@
 ### Junior Full Stack Developer
 
  
-<img src='github-bg.jpeg' alt='yes, I can I will' height='100' width='1000'>
+<img src='github-bg.jpeg' alt='yes, I can I will' height='200' width='1000'>
 
 ```diff
 I have always been deeply curious about how the world works
