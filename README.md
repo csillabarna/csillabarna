@@ -2,11 +2,11 @@
 ### Junior Full Stack Developer based in London
 
  
-<img src='github-bg.jpeg' alt='yes, I can I will' height='170' width='1200'>
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=csillabarna&show_icons=true&theme=gruvbox)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csillabarna&show=javascript,html)](https://github.com/csillabarna/github-readme-stats)
+### Skills
+
+[![Skills](https://github-readme-stats.vercel.app/api/top-langs/?username=csillabarna&show=javascript,html)](https://github.com/csillabarna/github-readme-stats)
 
 ```diff
 
@@ -19,14 +19,6 @@ wide variety of tasks to further develop my knowledge
 + in a team that has the freedom and responsibility to make decisions.
 ```
 
-### Skills
- ⚛️ React
- 
- 🐍 Python
- 
- 💻 JavaScript
- 
- 🌎  HTML / CSS / SASS 
  
   👩‍💻 I’m currently working on 
      
