@@ -4,14 +4,10 @@
  
 <img src='github-bg.jpeg' alt='yes, I can I will' height='200' width='1000'>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=csillabarna&show_icons=true)
+
+
 ```diff
-I have always been deeply curious about how the world works
-and what makes things tick!
-It was this curiosity, paired with an analytical mindset and persistence 
-which led me to pivot my career to programming.
-My experience working in hospitality environment required
-efficient team collaboration, proactivity and performing under pressure, 
-could also help my transition into software development.
 
 A great inspiration for me
 to discover and create something which can help make people's lives easier.
@@ -37,7 +33,7 @@ wide variety of tasks to further develop my knowledge
  
  📚 I’m currently learning 
    
-    - JavaScript testing 
+    - JEST
  
  🤓 Fun fact
  
