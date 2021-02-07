@@ -16,8 +16,9 @@
  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+ <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </div>
+<img src="https://img.shields.io/badge/%F0%9F%8C%B1-RELENTLESS%20LEARNING-yellowgreen" height='30' />
 
 [![Skills](https://github-readme-stats.vercel.app/api/top-langs/?username=csillabarna&show=javascript,html)](https://github.com/csillabarna/github-readme-stats)
 
