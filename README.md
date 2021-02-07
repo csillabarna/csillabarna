@@ -2,7 +2,7 @@
 ### Junior Full Stack Developer
 
  
-<img src='github-bg.jpeg' alt='yes, I can I will' height='200' width='1000'>
+<img src='github-bg.jpeg' alt='yes, I can I will' height='170' width='1200'>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=csillabarna&show_icons=true)
 
