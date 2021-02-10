@@ -1,4 +1,4 @@
-# Hi there 🙋‍♀️ I'm Csilla
+# Hi there, 🙋‍♀️ I'm Csilla
 ### Junior Full Stack Developer based in London
 
  
