@@ -40,7 +40,8 @@ wide variety of tasks to further develop my knowledge
  
  📚 I’m currently learning 
    
-    - JEST
+    - React Testing Libary
+    - Material UI
  
  🤓 Fun fact
  
