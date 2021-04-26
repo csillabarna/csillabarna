@@ -26,22 +26,15 @@
 
 A great inspiration for me
 to discover and create something which can help make people's lives easier.
-! As a creative, collaborative thinker with a desire to learn;
-I would enjoy working in an agile development environment
-+ where I can bring my own ideas; able to work across a 
-wide variety of tasks to further develop my knowledge
-+ in a team that has the freedom and responsibility to make decisions.
 ```
 
  
   👩‍💻 I’m currently working on 
      
-     - runForLife - Sharing platform for charity runners 
+     - settling in OVO :) 
  
- 📚 I’m currently learning 
    
-    - React Testing Libary
-    - Material UI
+ 
  
  🤓 Fun fact
  
