@@ -1,4 +1,4 @@
-# Hi there, 🙋‍♀️ I'm Csilla
+# Hi there, 🙋🏻‍♀️ I'm Csilla
 ### Junior Full Stack Developer based in London
 
  
@@ -31,14 +31,9 @@ to discover and create something which can help make people's lives easier.
  
   👩‍💻 I’m currently working on 
      
-     - settling in OVO :) 
- 
-   
+     - joined to OVO's Customer Retention Team :)
  
  
- 🤓 Fun fact
- 
-    - my family name (Barna) means brown🤎 in English 😇 
 
 ### Reach me on [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/https://www.linkedin.com/in/csilla-barna//)  
 #### [Check out my website 🌎](https://csillabarna.github.io/)  
