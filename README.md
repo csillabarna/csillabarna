@@ -31,7 +31,7 @@ to discover and create something which can help make people's lives easier.
  
   👩‍💻 I’m currently working on 
      
-     - joined to OVO's Customer Retention Team :)
+     - joined OVO's Customer Retention Team :)
  
  
 
