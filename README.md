@@ -1,4 +1,4 @@
-# Hi there 🙋🏻‍♀️ I'm Csilla
+## Hi there 🙋🏻‍♀️ I'm Csilla
 ### Junior Frontend Developer based in London
 
  
@@ -27,12 +27,11 @@
 ```
 
  
-  👩‍💻 I’m currently working with
  ```diff
- + OVO's Customer Retention Team 💚
+ + 👩‍💻 I’m currently working in OVO's Customer Retention Team 💚
  
  ```
 
-#### Reach me on [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/https://www.linkedin.com/in/csilla-barna//)  
+<!-- #### Reach me on [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/https://www.linkedin.com/in/csilla-barna//)   -->
 <!-- #### [Check out my website 🌎](https://csillabarna.github.io/)   -->
 
