@@ -1,11 +1,11 @@
 # Hi there 🙋🏻‍♀️ I'm Csilla
-### Junior Full Stack Developer based in London
+### Junior Frontend Developer based in London
 
  
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=csillabarna&show_icons=true&theme=gruvbox)
      -->
 
-
+<!-- 
 ### Skills
  <div>
  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -17,10 +17,10 @@
  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-</div>
+</div> -->
 <img src="https://img.shields.io/badge/%F0%9F%8C%B1-RELENTLESS%20LEARNING-yellowgreen" height='30' />
 
-[![Skills](https://github-readme-stats.vercel.app/api/top-langs/?username=csillabarna&show=javascript,html)](https://github.com/csillabarna/github-readme-stats)
+<!-- [![Skills](https://github-readme-stats.vercel.app/api/top-langs/?username=csillabarna&show=javascript,html)](https://github.com/csillabarna/github-readme-stats) -->
 
 ```diff
 @@ A great inspiration for me to discover and create something which can help make people's lives easier. @@
