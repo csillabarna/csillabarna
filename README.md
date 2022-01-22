@@ -1,10 +1,8 @@
 ## Hi there 🙋🏻‍♀️ I'm Csilla
-### Junior Frontend Developer based in London
+Junior Software Developer based in London
 
- 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=csillabarna&show_icons=true&theme=gruvbox)
      -->
-
 <!-- 
 ### Skills
  <div>
@@ -18,20 +16,14 @@
  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </div> -->
-<img src="https://img.shields.io/badge/%F0%9F%8C%B1-RELENTLESS%20LEARNING-yellowgreen" height='20' />
 
 <!-- [![Skills](https://github-readme-stats.vercel.app/api/top-langs/?username=csillabarna&show=javascript,html)](https://github.com/csillabarna/github-readme-stats) -->
+👩‍💻 I work at OVO 💚
 
-```diff
-@@ A great inspiration for me to discover and create something which can help make people's lives easier. @@
-```
+A great inspiration for me to discover and create something which can help make people's lives easier. 
 
- 
- ```diff
- + 👩‍💻 I’m currently working in OVO's Customer Retention Team 💚
- 
- ```
 
 <!-- #### Reach me on [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/https://www.linkedin.com/in/csilla-barna//)   -->
 <!-- #### [Check out my website 🌎](https://csillabarna.github.io/)   -->
 
+<img src="https://img.shields.io/badge/%F0%9F%8C%B1-RELENTLESS%20LEARNING-yellowgreen" height='15' />
