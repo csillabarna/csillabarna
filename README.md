@@ -1,5 +1,5 @@
 ## Hi there 🙋🏻‍♀️ I'm Csilla
-Software Developer based in London
+Software Developer
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=csillabarna&show_icons=true&theme=gruvbox)
      -->
