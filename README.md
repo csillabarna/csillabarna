@@ -26,4 +26,7 @@ A great inspiration for me to discover and create something which can help make 
 <!-- #### Reach me on [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/https://www.linkedin.com/in/csilla-barna//)   -->
 <!-- #### [Check out my website 🌎](https://csillabarna.github.io/)   -->
 
-<img src="https://img.shields.io/badge/%F0%9F%8C%B1-RELENTLESS%20LEARNING-yellowgreen" height='15' />
+<img src="https://img.shields.io/badge/%F0%9F%8C%B1-RELENTLESS%20LEARNING-yellowgreen" height='20' />
+
+ℹ️ <sub>Phonetic spelling of my first name: `Chi-la` <sub>
+
